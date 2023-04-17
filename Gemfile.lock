@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    hola (0.0.0)
+      string_cleaner (~> 0.2.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    string_cleaner (0.2.3)
+      talentbox-unidecoder (= 1.1.2)
+    talentbox-unidecoder (1.1.2)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  hola!
+
+BUNDLED WITH
+   2.3.21
