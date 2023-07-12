@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/dummy.rb"]
   s.license       = "MIT"
 
-  s.add_dependency "string_cleaner", "~> 0.2.3"
+  s.add_dependency "string_cleaner", ">= 0.2.3", "< 1.1.0"
 end
