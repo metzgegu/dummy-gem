@@ -6,5 +6,5 @@ gemspec
 gem 'sass', '~> 3.7.4'
 gem 'nokogiri', '~> 1.16.7'
 gem 'rspec', '~> 3.13.0'
-gem 'rspec-mocks', '~> 3.13.1'
+gem 'rspec-mocks', '~> 3.13.2'
 gem 'rspec-cells', '~> 0.3.9'
