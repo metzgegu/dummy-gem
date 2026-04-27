@@ -66,9 +66,9 @@ GEM
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
     minitest (5.27.0)
-    nokogiri (1.19.2-x86_64-darwin)
+    nokogiri (1.19.3-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.19.2-x86_64-linux-gnu)
+    nokogiri (1.19.3-x86_64-linux-gnu)
       racc (~> 1.4)
     psych (5.2.0)
       stringio
@@ -156,7 +156,7 @@ PLATFORMS
 
 DEPENDENCIES
   hola!
-  nokogiri (~> 1.19.2)
+  nokogiri (~> 1.19.3)
   rspec (~> 3.13.2)
   rspec-cells (~> 0.3.10)
   rspec-mocks (~> 3.13.8)
